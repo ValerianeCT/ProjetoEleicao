@@ -167,7 +167,7 @@
               Tarcisio <br> Guedes
             </div>
             <div class="col-sm-1">
-              <img src="IMAGENS/ValerianeAlmeida.png" alt="Valeriane Almeida" class="img-fluid card-img img-thumbnail ">
+              <img src="IMAGENS/ValerianeAlmeida.png" alt="Valeriane Torres" class="img-fluid card-img img-thumbnail ">
               <br>
               Valeriane <br> Almeida
             </div>
